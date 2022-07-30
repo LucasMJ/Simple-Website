@@ -7,7 +7,7 @@
 }
 
 body{
-  /*overflow: hidden;*/
+  overflow-x: hidden;
 }
 
 .header{
@@ -29,7 +29,7 @@ body{
 }
 
 .header ul{
-  margin-left: 30px;
+  margin-left: 20px;
 }
 
 .header ul li a{
